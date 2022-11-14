@@ -199,11 +199,10 @@
       "url": "https://packages.unity.com"
     },
     "nl.cwi.dis.cwipc": {
-      "version": "git+https://github.com/cwi-dis/cwipc?path=/unity/nl.cwi.dis.cwipc#issue25-unity-package",
+      "version": "file:/Users/jack/src/VRTogether/cwipc/cwipc_unity/nl.cwi.dis.cwipc",
       "depth": 0,
-      "source": "git",
-      "dependencies": {},
-      "hash": "eb9d41d77c7c62fc1627ac56a067b7eb9aa49245"
+      "source": "local",
+      "dependencies": {}
     },
     "com.unity.modules.ai": {
       "version": "1.0.0",
