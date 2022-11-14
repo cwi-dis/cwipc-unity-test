@@ -232,6 +232,10 @@ PrefabInstance:
       propertyPath: sourceType
       value: 4
       objectReference: {fileID: 0}
+    - target: {fileID: 1810360447061419718, guid: d86a1b7043c574e9e98ff7acdba122ea, type: 3}
+      propertyPath: compressedStream
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 2942035106827000202, guid: d86a1b7043c574e9e98ff7acdba122ea, type: 3}
       propertyPath: m_Name
       value: PointCloudOutput
